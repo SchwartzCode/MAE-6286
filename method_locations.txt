@@ -1,0 +1,46 @@
+====================
+===== METHODS ======
+====================
+Phugoid flight (numerical) - mod1_lessons1-2
+Euler - mod1_lesson3
+      - mod1_lesson4
+      - mod4_lesson5
+RK2 - mod1_lesson4
+Leapfrog - mod1_lesson4
+1D convection - mod2_lesson1
+              - mod2_lesson2
+cfl convection - mod2_lesson2
+ftbs - mod3_lesson1
+     - mod3_lesson3
+lax friedrichs - mod3_lesson2
+lax_wendroff - mod3_lesson2
+maccormack - mod3_lesson2
+ftcs - mod4_lesson1
+     - mod4_lesson3
+btcs - mod4_lesson2
+     - mod4_lesson4
+lhs/rhs stuff - mod4_lesson2
+              - mod4_lesson4
+              - mod4_lesson5
+laplacian - mod4_lesson5
+crank-nicholson - mod4_lesson5
+convergence - mod4_lesson5
+            - mod5_lesson3 (l2)
+jacobi - mod5_lesson3
+       - mod5_lesson1
+       - mod5_lesson2
+gauss_seidel - mod5_lesson3
+jit - mod5_lesson3
+SQR_method - mod5_lesson3
+poisson_2d - mod5_lesson4 (steepest and conjugate gradient)
+           - mod5_lesson2
+laplace - mod5_lesson1
+
+
+================================
+===== PYTHON FUNCTIONALITY =====
+================================
+sympy - mod2_lesson4
+      - mod3_lesson3
+3d_plotting - mod5_lesson1
+            - mod5_lesson2
